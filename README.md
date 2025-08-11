@@ -1,9 +1,9 @@
 # 🏎️ AWS DeepRacer 프로젝트
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/aws-deepracer-project?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/aws-deepracer-project?color=green)
-![GitHub license](https://img.shields.io/github/license/your-username/aws-deepracer-project?color=yellow)
-![GitHub stars](https://img.shields.io/github/stars/your-username/aws-deepracer-project?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoonBW0929/aws-deepracer-project?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/MoonBW0929/aws-deepracer-project?color=green)
+![GitHub license](https://img.shields.io/github/license/MoonBW0929/aws-deepracer-project?color=yellow)
+![GitHub stars](https://img.shields.io/github/stars/MoonBW0929/aws-deepracer-project?style=social)
 
 **2025년 Soldesk 주관의 AWS DeepRacer 대회**에서 진행한 작업과 결과를 담고 있습니다.
 강화 학습을 이용한 자율 주행 모델을 설계하고 학습시켜 가장 빠른 lab time을 비교하는 것으로 대회가 진행되었고
